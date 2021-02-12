@@ -4,7 +4,7 @@
     padding: 0;
     box-sizing: border-box;
 }
-
+/* COMMON */
 .wrapping{
     width: 85%;
     margin: 15px auto;
@@ -21,14 +21,13 @@
     background-color: #ffdf80;
     margin: 15px 0;
 }
+/*End Header*/
 
+/*Main*/
 .title{
     height: 50px;
     background-color: #b3d9ff;
 }
-/*End Header*/
-
-/*Main*/
 
 .clearfix::after{
     content: "";
